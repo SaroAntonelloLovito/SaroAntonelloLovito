@@ -18,7 +18,7 @@ class LMEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = CloudEngineer()
+me = LMEngineer()
 me.say_hi()
 ```
 
